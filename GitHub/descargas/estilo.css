@@ -3,11 +3,15 @@
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 5px 0;
+    text-align: center;
 }
 body {
     margin: 0 auto;
     width: 70%;
+    letter-spacing: 1px;
+    line-height: 27px;
 }
+
 header {
     color: brown;
     background-color: blue;
@@ -15,4 +19,15 @@ header {
 
 div {
     border: 1px solid #333;
+    
+}
+footer {
+    padding-top: 0;
+}
+.footer {
+    border: 1px solid #222;
+    background: #333;
+    color: azure;
+    text-align: center;
+    
 }
